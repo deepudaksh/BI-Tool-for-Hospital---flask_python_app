@@ -8,7 +8,7 @@ config = {
   'user':'myadmin@mytestservermanipal',
   'password':'Qwerty123',
   'database':'careplex',
-  'ssl_ca':'/Users/pradeepl/Documents/ssl/BaltimoreCyberTrustRoot.crt.pem'
+  'ssl_ca':'ssl/BaltimoreCyberTrustRoot.crt.pem'
 }
 
 
